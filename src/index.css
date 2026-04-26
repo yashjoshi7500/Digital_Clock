@@ -1,0 +1,35 @@
+*{
+  padding:0px;
+  margin:0px;
+  box-sizing: border-box;
+}
+
+body{
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #1f1f1f;
+}
+
+.clock {
+  background-color: aqua;
+  padding:50px;
+  border-radius: 20px;
+  text-align: center;
+}
+
+h2{
+  margin:10px 0px;
+  
+}
+
+button{
+  padding:5px;
+  width:200px;
+  border-radius: 10px;
+  font-size:large;
+  border-color: aqua;
+  border:none;
+  
+}
